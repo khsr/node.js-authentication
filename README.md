@@ -26,4 +26,4 @@ If you would like to download the code and try it for yourself:
 - [Google](http://scotch.io/tutorials/javascript/easy-node-authentication-google)
 - [Linking All Accounts Together](http://scotch.io/tutorials/javascript/easy-node-authentication-linking-all-accounts-together)
 
-![codeship status](https://codeship.com/projects/UUID/status?branch=master)
+![codeship status](https://codeship.com/projects/46021e7c-da92-44a5-95bc-11df68a677af/status?branch=master)
